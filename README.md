@@ -1,5 +1,5 @@
 # Qinglong Dai
-Institue: Beijing Union University
+Institution: Beijing Union University  
 Emai: xxtqinglong@buu.edu.cn
 # Basic
 # Paper
