@@ -1,4 +1,4 @@
-# 戴庆龙
+# <center>戴庆龙</center>
 [English](README.md)
 ## 基本信息
 Email: xxtqinglong@buu.edu.cn  
